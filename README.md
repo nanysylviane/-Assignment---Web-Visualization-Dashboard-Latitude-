@@ -1,5 +1,10 @@
 # Web Visualization Dashboard (Latitude)
 
+
+Our site is published at https://nanysylviane.github.io/Web-Visualization-Dashboard-Latitude
+
+
+
 ## Background
 
 Data is more powerful when we share it with others!
